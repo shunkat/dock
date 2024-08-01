@@ -1,0 +1,6 @@
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/shunkat/blog-folio.git
+[submodule "origin"]
+	path = origin
+	url = https://github.com/shunkat/origin.git

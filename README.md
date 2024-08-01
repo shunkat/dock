@@ -13,7 +13,7 @@ clone するときは
 
 **origin（大元のレポジトリ）**：大元の記事データと、記事を管理するためのjsonファイル（DB代わり）、記事を変換して下記のレポジトリに再配置するためのpythonスクリプトを持つ
 
-**zenn**:変換後のzennの記事データと、remoteにpushするためのshellスクリプトを持つ（デプロイ関数もactions内に持つ）
+**zenn**:変換後のzennの記事データと、remoteにpushするためのshellスクリプトを持つ
 
 **qiita**:変換後のqiitaの記事データと、remoteにpushするためのshellスクリプトを持つ（デプロイ関数もactions内に持つ）
 
