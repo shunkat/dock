@@ -4,3 +4,9 @@
 [submodule "origin"]
 	path = origin
 	url = https://github.com/shunkat/origin.git
+[submodule "qiita"]
+	path = qiita
+	url = https://github.com/shunkat/qiita.git
+[submodule "zenn"]
+	path = zenn
+	url = https://github.com/shunkat/zenn.git
