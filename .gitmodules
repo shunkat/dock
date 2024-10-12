@@ -10,3 +10,6 @@
 [submodule "zenn"]
 	path = zenn
 	url = https://github.com/shunkat/zenn.git
+[submodule "images"]
+	path = images
+	url = https://github.com/shunkat/__Backup_Images.git
