@@ -18,3 +18,11 @@ clone するときは
 **qiita**:変換後のqiitaの記事データと、remoteにpushするためのshellスクリプトを持つ（デプロイ関数もactions内に持つ）
 
 **hugo**:変換後の個人ブログ用の記事データと、remoteにpushするためのshellスクリプトを持つ（デプロイ関数もactions内に持つ）
+
+# エイリアス登録
+
+```
+alias cr='sh ~/dock/origin/methods/create.sh'
+alias pb='sh ~/dock/origin/methods/publish.sh'
+alias im='sh ~/Develop/image-resize-convert-uploader/image-resize-convert-upload.sh'
+```
